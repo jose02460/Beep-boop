@@ -29,7 +29,7 @@ var userOutput;
 $(document).ready(function() {
   $("#num-form").submit(function(event) {
     event.preventDefault();
-    userInput = parseInt($("#user-number").val());
+    userInput = parseInt($("#user-num").val());
 
     userOutput = numberarray(userInput);
     alert(userOutput);
