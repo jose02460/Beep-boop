@@ -18,7 +18,6 @@ var numberArray = function(input) {
           })
       })
 
-
   }
 }
 }
@@ -28,7 +27,7 @@ var numberArray = function(input) {
 var userInput;
 var userOutput;
 $(document).ready(function() {
-  $("#number-form").submit(function(event) {
+  $("#num-form").submit(function(event) {
     event.preventDefault();
     userInput = parseInt($("#user-number").val());
 
