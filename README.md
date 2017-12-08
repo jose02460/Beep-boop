@@ -8,7 +8,7 @@ Numbers that contain a 1 are replaced with "Boop!"
 Numbers that contain a 0 are replaced with "Beep!"
 Numbers divisible by 3 are replaced with "I'm sorry, Dave. I'm afraid I can't do that."
 
-_ Application gives back a result depending on what you submit._
+_Application gives back a result depending on what you submit._
 
 ## Setup/Installation Requirements
 
